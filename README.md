@@ -1,7 +1,13 @@
 # Udemy Course Recommendation System !Python !Flask !JavaScript
 ![Static Badge](https://img.shields.io/badge/santosh-kumar-green?style=plastic)
-https://img.shields.io/badge/Python-yellow
+![Static Badge](https://img.shields.io/badge/Python-cyan)
+![Static Badge](https://img.shields.io/badge/Flask-orange)
+![Static Badge](https://img.shields.io/badge/JavaScript-violet)
+![Static Badge](https://img.shields.io/badge/NLP-Green)
 
+
+
+https://img.shields.io/badge/Flask-orange)
 This system recommends Udemy courses based on user query text. It utilizes Natural Language Processing (NLP) and cosine similarity to find similar courses. The system is integrated with a Flask server and includes an interactive dashboard using JavaScript.
 
 ## Features
