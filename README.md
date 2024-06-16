@@ -8,8 +8,7 @@
 
 This system recommends Udemy courses based on user query text. It utilizes Natural Language Processing (NLP) and cosine similarity to find similar courses. The system is integrated with a Flask server and includes an interactive dashboard using JavaScript.
 
-<img src = "https://github.com/Santosh175/Recommender_System/blob/master/course_recommend_interface.png
-" alt = "Error" >
+<img src = "https://github.com/Santosh175/Recommender_System/blob/master/course_recommend_interface.png" alt = "Error" >
 
 
 ## Features
@@ -19,8 +18,7 @@ This system recommends Udemy courses based on user query text. It utilizes Natur
 - **Flask Server Integration**: The system is integrated with a Flask server.
 - **Interactive Dashboard**: Includes an interactive dashboard using JavaScript.
 
-- <img src = "https://github.com/Santosh175/Recommender_System/blob/master/course_recommend_dashboard.png
-" alt = "Error" >
+- <img src = "https://github.com/Santosh175/Recommender_System/blob/master/course_recommend_dashboard.png" alt = "Error" >
 
 ## Installation
 
