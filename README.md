@@ -21,17 +21,17 @@ This system recommends Udemy courses based on user query text. It utilizes Natur
 - <img src = "https://github.com/Santosh175/Recommender_System/blob/master/course_recommend_dashboard.png" alt = "Error" >
 
 ## Installation
-```html
-To install my project locally:
-1.Clone my repo.
-2.Craete a new env. variable & run Requirements.txt to install all 
-	dependencies.
-3.set the FLASK_APP environment variable to your application’s python file
-		set FLASK_APP=app.py
-4.To run the Flask app from the command line
-		flask run.
+1. Clone my repo.
+2. Create a new env. variable & run “Requirements.txt” to install all dependencies.
+3. Set the FLASK_APP environment variable to your application’s python file
 
-```
+    
+    ```html
+    set FLASK_APP=app.py
+    ```
+    
+4. To run the Flask app from the command line
+
 
 ## Usage
 
