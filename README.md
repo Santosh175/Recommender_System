@@ -31,6 +31,10 @@ This system recommends Udemy courses based on user query text. It utilizes Natur
     ```
     
 4. To run the Flask app from the command line
+    
+    ```html
+    flask run
+    ```
 
 
 ## Usage
