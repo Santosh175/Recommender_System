@@ -22,12 +22,26 @@ This system recommends Udemy courses based on user query text. It utilizes Natur
 
 ## Installation
 
-Provide instructions on how to install your project locally.
+To install my project locally:
+1.Clone my repo.
+2.Craete a new env. variable & run Requirements.txt to install all 
+	dependencies.
+3.set the FLASK_APP environment variable to your application’s python file
+		set FLASK_APP=app.py
+4.To run the Flask app from the command line
+		flask run.
+
 
 ## Usage
 
-Provide instructions on how to use your project after installation.
-
+- After successful installation of the project, use it:
+    - provide query in the search box
+    - click on “Recommend “ button to see list of recommended Udemy courses.
+    - you can click on “View Courses” button to visit the course  on to the Udemy portal
+        
+        for more details.
+        
+    - click on Dashboard tab in the home page to see interactive dashboard.
 ## License 
 
 MIT License 
