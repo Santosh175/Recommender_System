@@ -1,5 +1,4 @@
-# Udemy Course Recommendation System !Python !Flask !JavaScript
-![Static Badge](https://img.shields.io/badge/santosh-kumar-green?style=plastic)
+# Udemy Course Recommendation System 
 ![Static Badge](https://img.shields.io/badge/Python-cyan)
 ![Static Badge](https://img.shields.io/badge/Flask-orange)
 ![Static Badge](https://img.shields.io/badge/JavaScript-violet)
@@ -7,7 +6,6 @@
 
 
 
-https://img.shields.io/badge/Flask-orange)
 This system recommends Udemy courses based on user query text. It utilizes Natural Language Processing (NLP) and cosine similarity to find similar courses. The system is integrated with a Flask server and includes an interactive dashboard using JavaScript.
 
 ## Features
@@ -25,16 +23,12 @@ Provide instructions on how to install your project locally.
 
 Provide instructions on how to use your project after installation.
 
-## License !License
+## License 
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+MIT License 
 
 ## Contributing
 
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
