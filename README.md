@@ -51,8 +51,5 @@ This system recommends Udemy courses based on user query text. It utilizes Natur
 
 MIT License 
 
-## Contributing
-
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
 
